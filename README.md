@@ -1,6 +1,6 @@
 [![Word Art](https://raw.githubusercontent.com/24OI/OI-wiki/master/docs/images/wordArt.png)](https://oi-wiki.org/)
 
-# 欢迎来到 **OI Wiki**！
+# 欢迎来到 **信奥帮 NOI/ACM Wiki**！
 
 [![Travis](https://img.shields.io/travis/OI-WIKI/OI-wiki.svg?style=flat-square)](https://travis-ci.org/OI-wiki/OI-wiki)
 [![Progress](https://img.shields.io/badge/Progress-88%25-brightgreen.svg?style=flat-square)](https://github.com/OI-wiki/OI-wiki)
